@@ -8,6 +8,7 @@ class TestIntegrityVisionApplicationTests {
 
   @Test
   void contextLoads() {
+    TestIntegrityVisionApplication.main(new String[0]);
   }
 
 }

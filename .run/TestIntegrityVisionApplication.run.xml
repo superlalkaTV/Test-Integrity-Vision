@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TestIntegrityVisionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="TestIntegrityVision" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="ua.maksym.bataiev.testintegrityvision.TestIntegrityVisionApplication" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="test" />
+    </method>
+  </configuration>
+</component>
